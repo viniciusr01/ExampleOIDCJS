@@ -1,0 +1,106 @@
+.App-header {
+  background-color: #ffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black ;
+  
+}
+
+.logos{
+  max-width: 450px; 
+  
+}
+
+.Logado-header{
+  background-color: rgb(57, 58, 48);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black ;
+}
+
+
+.botao {
+  margin: 0 10px;
+  background-color: #ffffff;
+  font-size: 16px;
+  border-radius: 20px;
+  border-color: #f6f8f8;
+  border-style: dotted;
+  width: 100px;
+  height: 40px;
+  color: rgb(100, 58, 58);
+}
+  
+.button-logout {
+  margin-top: 40px;
+  background-color: rgb(228, 66, 66);
+  font-size: 16px;
+  border-radius: 18px;
+  border-color: rgb(228, 135, 135)(143, 127, 127);
+  width: 100px;
+  height: 40px;
+  color: white;
+}
+
+.button-login {
+  margin-top: 40px;
+  margin-left: 140px;
+  background-color:#B53F3F  ;
+  font-size: 20px;
+  border-radius: 60px;
+  border-color: #B53F3F;
+  width: 100px;
+  height: 40px;
+  color: white;
+  font-weight: 700;
+}
+
+.bloco{
+  position: absolute;
+  width: 800px;
+  height: 657px;
+  left: 0px;
+  top: 0px;
+  background: url('https://www.ufmg.br/online/arquivos/anexos/campus-ufmg-fotos-foca-lisboa-1.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 80%;
+  opacity: 95%;
+  
+}
+
+
+.texto{
+  margin-right: 500px;
+  position: relative;
+  top: 100px;
+  right: -900px;
+}
+
+.Texto2{
+  color: #ffffff;
+}
+
+.Texto3{
+  font-size: 25px;
+  color: #ffffff;
+}
+
+h2{
+  line-height: 20px;
+  font-size: 60x;
+  color: #B53F3F;
+}
+
+.Position-image{
+  margin-top: 200px;
+  margin-left: 830px;
+}
